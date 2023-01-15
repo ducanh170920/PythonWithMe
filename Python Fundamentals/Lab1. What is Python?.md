@@ -1,0 +1,4 @@
+### 1. The nature of the language( đọc để biết, không biết cũng không sao) 
+Được phát triển năm 1990, python là general-purpose programming ( Ngôn ngữ lập trình đa năng) trong thời gian hiện đại.\
+Hiểu đơn giản như này: general-purpose programming nó có thể  xây dựng phần mềm ở nhiều lĩnh vực ví dụ như : Lập trình game, lập trình nhúng, Phân tích dữ liệu,AI ,..\
+![Image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Ff%2Ff8%2FPython_logo_and_wordmark.svg%2F2560px-Python_logo_and_wordmark.svg.png&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3APython_logo_and_wordmark.svg&tbnid=IYUTKyJhDagcZM&vet=12ahUKEwjOjpHCscj8AhWHG6YKHZmADp4QMygBegUIARDcAQ..i&docid=EVmS09WSOEFvWM&w=2560&h=759&q=image%20python&ved=2ahUKEwjOjpHCscj8AhWHG6YKHZmADp4QMygBegUIARDcAQ)
